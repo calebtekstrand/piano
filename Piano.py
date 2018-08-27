@@ -1,6 +1,5 @@
 import pygame
 from pygame.locals import *
-from note import Note
 class Piano:
 	white = (255,255,255)
 	black = (0,0,0)
