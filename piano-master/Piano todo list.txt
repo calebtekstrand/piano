@@ -1,0 +1,8 @@
+end goal: play list(click on to play), record button.
+1. setup timestamps(or w/e) for keeping track of delays in between button presses.
+2. make a manual "song" with notes and pauses. attatch it to a button
+3. figure out how to store and read it
+4. record button that starts and stops the recording process
+5. figure out the recording processes
+6. setup a sample 1-x list of all the recordings and print it with intention of haivng user type 1-x to start playing the piano. 
+7. once the calling process is figured out setup some sort of user interface for it. maybe another tab or button that takes you to the list of all current recordings. 
